@@ -1,0 +1,5 @@
+/* Add background image to jumbotron */
+.jumbotron {
+  background: #eee url("../images/AdobeStock_59784614.jpeg") center center;
+  background-size: cover;
+}
